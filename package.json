@@ -2,6 +2,7 @@
   "name": "project-4-assessment",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rightanglewrong.github.io/project-4-assessment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -36,7 +37,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://rightanglewrong.github.io/project-4-assessment"
+    ]
   }
+
 }
