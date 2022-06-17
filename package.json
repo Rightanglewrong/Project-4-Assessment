@@ -2,7 +2,7 @@
   "name": "project-4-assessment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rightanglewrong.github.io/project-4-assessment",
+  "homepage": "https://Rightanglewrong.github.io/project-4-assessment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
